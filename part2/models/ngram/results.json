@@ -1,0 +1,7 @@
+{
+  "model": "kn_trigram",
+  "n": 3,
+  "vocab_size": 15394,
+  "dev_perplexity": 2993.0762877728057,
+  "test_perplexity": 2415.777424813593
+}

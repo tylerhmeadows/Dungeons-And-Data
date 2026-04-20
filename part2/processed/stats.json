@@ -1,0 +1,15 @@
+{
+  "lines_read": 15583,
+  "records_kept": 3965,
+  "split_counts": {
+    "train": 3533,
+    "dev": 216,
+    "test": 216
+  },
+  "action_counts": {
+    "attack": 2759,
+    "spell": 1003,
+    "save": 203
+  },
+  "unique_combats": 150
+}
